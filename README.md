@@ -24,3 +24,5 @@ Specyfikacja problemu:
  - oferuje graficzny interfejs, za pomocą którego gość może wysyłać żądania rezerwacji pokoi oraz żądanie zakończenia pobytu.
  - wyświetla listy zarezerwowanych przez gościa pokoi i ich stany.
  - umożliwia "wejście" i "wyjście" z danego pokoju poprzez przesłanie odpowiednio zredagowanego żądania do odpowiedniego pokoju.
+
+### Solution author: Damian Raczkowski
